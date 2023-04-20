@@ -1,0 +1,56 @@
+[11-May-2022 22:29:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[12-May-2022 09:08:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[13-May-2022 09:47:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[27-May-2022 04:50:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[05-Jul-2022 13:23:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[13-Jul-2022 13:53:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[20-Jul-2022 00:29:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[24-Jul-2022 16:15:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[31-Jul-2022 12:59:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[03-Aug-2022 19:18:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[09-Aug-2022 20:16:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[14-Aug-2022 11:28:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[17-Aug-2022 10:09:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[28-Aug-2022 04:22:23 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/File.php on line 9

@@ -1,0 +1,36 @@
+[13-May-2022 17:09:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[17-May-2022 21:23:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[23-Jul-2022 00:09:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[25-Jul-2022 07:49:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[26-Jul-2022 16:39:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[13-Aug-2022 10:07:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[19-Aug-2022 22:33:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[21-Aug-2022 10:24:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[27-Aug-2022 11:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10

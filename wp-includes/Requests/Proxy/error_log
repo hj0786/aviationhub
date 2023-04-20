@@ -1,0 +1,11 @@
+[12-May-2022 12:56:46 UTC] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home/aviationhubb/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19
+[19-May-2022 19:41:32 UTC] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home/aviationhubb/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19
+[05-Jul-2022 01:14:00 UTC] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home/aviationhubb/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19
+[28-Jul-2022 16:07:38 UTC] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home/aviationhubb/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19
+[11-Aug-2022 05:07:54 UTC] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home/aviationhubb/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19
+[13-Aug-2022 00:07:52 UTC] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home/aviationhubb/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19
+[18-Aug-2022 19:54:11 UTC] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home/aviationhubb/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19
+[30-Aug-2022 06:18:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Requests_Proxy" not found in /home/aviationhubb/public_html/wp-includes/Requests/Proxy/HTTP.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19

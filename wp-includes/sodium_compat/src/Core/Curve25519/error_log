@@ -1,0 +1,80 @@
+[13-May-2022 17:11:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[15-May-2022 17:54:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[16-May-2022 00:14:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[21-May-2022 13:50:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[28-May-2022 16:57:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[16-Jun-2022 22:00:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[22-Jun-2022 17:57:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[30-Jun-2022 18:07:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[10-Jul-2022 14:51:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[13-Jul-2022 18:35:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Jul-2022 03:13:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[25-Jul-2022 08:48:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[25-Jul-2022 12:35:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[26-Jul-2022 01:16:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[02-Aug-2022 10:17:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[11-Aug-2022 07:08:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[17-Aug-2022 18:36:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[18-Aug-2022 13:09:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[23-Aug-2022 19:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[07-Feb-2023 23:09:04 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12

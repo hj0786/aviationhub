@@ -1,0 +1,36 @@
+[09-May-2022 16:41:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[12-May-2022 09:53:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[05-Jul-2022 18:24:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[15-Jul-2022 08:28:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[02-Aug-2022 06:53:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[04-Aug-2022 12:48:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[08-Aug-2022 08:38:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[11-Aug-2022 14:05:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[30-Aug-2022 10:21:05 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6

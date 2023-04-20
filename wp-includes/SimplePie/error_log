@@ -1,0 +1,32 @@
+[09-May-2022 06:21:53 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php on line 53
+[09-May-2022 09:11:17 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php on line 53
+[14-May-2022 13:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php on line 53
+[28-Jul-2022 19:12:53 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php on line 53
+[03-Aug-2022 13:34:35 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php on line 53
+[05-Aug-2022 07:29:44 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php on line 53
+[11-Aug-2022 17:28:01 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php on line 53
+[14-Aug-2022 18:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/SimplePie/Core.php on line 53

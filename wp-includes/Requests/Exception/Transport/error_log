@@ -1,0 +1,56 @@
+[16-May-2022 17:21:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[22-May-2022 09:59:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[27-May-2022 06:42:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[04-Jun-2022 19:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[19-Jun-2022 06:33:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[25-Jun-2022 00:56:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[05-Jul-2022 23:04:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[09-Jul-2022 11:09:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[25-Jul-2022 23:51:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[31-Jul-2022 07:25:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[02-Aug-2022 19:45:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[17-Aug-2022 02:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[18-Aug-2022 18:47:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[25-Aug-2022 18:36:15 UTC] PHP Fatal error:  Uncaught Error: Class "Requests_Exception_Transport" not found in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3

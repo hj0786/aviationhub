@@ -1,0 +1,60 @@
+[07-May-2022 23:45:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[09-May-2022 12:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[11-May-2022 12:27:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[14-May-2022 19:36:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[18-May-2022 08:49:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[20-Jun-2022 13:20:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[25-Jun-2022 03:15:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[26-Jun-2022 23:04:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[14-Jul-2022 04:03:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[21-Jul-2022 02:27:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[29-Jul-2022 14:09:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[04-Aug-2022 03:59:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[11-Aug-2022 08:25:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[13-Aug-2022 13:07:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[14-Aug-2022 22:44:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

@@ -1,0 +1,4 @@
+[25-Jan-2023 21:04:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/aviationhubb/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-admin/user/menu.php on line 10

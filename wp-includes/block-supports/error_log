@@ -1,0 +1,824 @@
+[06-May-2022 19:00:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 84
+[06-May-2022 19:00:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[06-May-2022 20:53:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[06-May-2022 22:42:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 218
+[07-May-2022 17:17:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 84
+[07-May-2022 22:50:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 189
+[08-May-2022 01:33:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 218
+[08-May-2022 02:26:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[08-May-2022 03:41:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[08-May-2022 03:49:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 189
+[08-May-2022 04:05:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 153
+[08-May-2022 04:40:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[08-May-2022 05:16:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 84
+[08-May-2022 06:06:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php on line 99
+[08-May-2022 08:49:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 76
+[08-May-2022 09:46:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[08-May-2022 10:34:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[08-May-2022 12:03:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 76
+[08-May-2022 12:11:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[08-May-2022 12:16:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 184
+[08-May-2022 12:21:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php on line 99
+[08-May-2022 12:25:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 218
+[08-May-2022 12:28:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[08-May-2022 23:08:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 184
+[09-May-2022 01:09:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[09-May-2022 02:10:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 189
+[09-May-2022 05:08:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 184
+[09-May-2022 14:53:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 153
+[09-May-2022 14:53:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[09-May-2022 16:05:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php on line 99
+[11-May-2022 13:59:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 218
+[11-May-2022 14:53:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[11-May-2022 18:06:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php on line 99
+[15-May-2022 21:32:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 184
+[16-May-2022 03:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 153
+[16-May-2022 05:07:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 218
+[16-May-2022 07:30:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[18-May-2022 19:43:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[18-May-2022 21:31:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 76
+[18-May-2022 21:38:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 84
+[21-May-2022 06:12:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:184
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 184
+[21-May-2022 09:55:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 218
+[22-May-2022 04:47:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 153
+[23-May-2022 11:10:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[23-May-2022 19:30:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 76
+[25-May-2022 06:08:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[25-May-2022 14:52:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[25-May-2022 17:48:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[25-May-2022 19:13:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[26-May-2022 10:48:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 207
+[27-May-2022 07:31:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[27-May-2022 19:01:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[30-May-2022 03:32:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[31-May-2022 07:56:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[01-Jun-2022 01:21:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[01-Jun-2022 04:13:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[03-Jun-2022 13:41:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[03-Jun-2022 15:25:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 207
+[04-Jun-2022 07:17:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[06-Jun-2022 19:04:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[06-Jun-2022 23:50:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[08-Jun-2022 14:33:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[17-Jun-2022 00:17:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[17-Jun-2022 16:47:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[17-Jun-2022 23:27:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[18-Jun-2022 13:16:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[20-Jun-2022 04:45:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[20-Jun-2022 20:38:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 176
+[21-Jun-2022 13:18:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[22-Jun-2022 03:04:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[22-Jun-2022 04:35:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 207
+[23-Jun-2022 19:47:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[23-Jun-2022 23:06:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[24-Jun-2022 11:11:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[24-Jun-2022 12:05:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[25-Jun-2022 06:40:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[28-Jun-2022 00:58:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[28-Jun-2022 18:03:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[30-Jun-2022 00:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[30-Jun-2022 00:36:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[30-Jun-2022 11:16:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 207
+[30-Jun-2022 19:02:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[02-Jul-2022 20:03:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[03-Jul-2022 05:55:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[03-Jul-2022 20:43:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 207
+[04-Jul-2022 08:20:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[04-Jul-2022 20:36:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[05-Jul-2022 21:34:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[05-Jul-2022 21:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[05-Jul-2022 23:57:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 176
+[06-Jul-2022 02:00:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[06-Jul-2022 03:35:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[06-Jul-2022 08:23:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[06-Jul-2022 14:24:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[09-Jul-2022 10:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[09-Jul-2022 13:24:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[09-Jul-2022 23:11:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 207
+[10-Jul-2022 10:09:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[10-Jul-2022 23:26:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[11-Jul-2022 01:56:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[11-Jul-2022 09:17:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[11-Jul-2022 10:01:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[11-Jul-2022 11:02:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:207
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 207
+[11-Jul-2022 11:26:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[11-Jul-2022 17:57:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[13-Jul-2022 01:08:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[13-Jul-2022 01:14:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 176
+[14-Jul-2022 00:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[14-Jul-2022 14:02:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[15-Jul-2022 15:15:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php on line 83
+[15-Jul-2022 16:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[16-Jul-2022 19:00:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 226
+[17-Jul-2022 06:48:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[18-Jul-2022 02:31:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[18-Jul-2022 08:12:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[18-Jul-2022 18:21:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 176
+[20-Jul-2022 14:04:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[21-Jul-2022 06:39:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[22-Jul-2022 17:51:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[22-Jul-2022 19:44:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[23-Jul-2022 08:01:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[24-Jul-2022 12:14:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[24-Jul-2022 14:06:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[24-Jul-2022 14:59:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 176
+[26-Jul-2022 05:56:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[26-Jul-2022 07:33:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[26-Jul-2022 12:59:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[28-Jul-2022 17:47:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php on line 83
+[29-Jul-2022 10:25:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[29-Jul-2022 11:27:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[29-Jul-2022 17:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[30-Jul-2022 05:17:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 176
+[30-Jul-2022 10:22:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[30-Jul-2022 18:05:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[31-Jul-2022 09:33:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[01-Aug-2022 16:21:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[02-Aug-2022 03:39:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 176
+[02-Aug-2022 05:21:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[02-Aug-2022 07:39:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[02-Aug-2022 08:12:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[02-Aug-2022 18:09:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[04-Aug-2022 09:03:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 226
+[04-Aug-2022 16:29:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[04-Aug-2022 23:44:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[06-Aug-2022 15:30:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[06-Aug-2022 19:18:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[06-Aug-2022 23:00:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[07-Aug-2022 03:04:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[07-Aug-2022 04:26:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[07-Aug-2022 08:20:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[07-Aug-2022 16:08:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[08-Aug-2022 06:48:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[08-Aug-2022 06:48:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[08-Aug-2022 06:49:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[09-Aug-2022 03:29:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[09-Aug-2022 03:30:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[09-Aug-2022 05:09:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[09-Aug-2022 22:38:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[10-Aug-2022 02:01:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[10-Aug-2022 03:23:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 176
+[10-Aug-2022 04:47:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 226
+[10-Aug-2022 11:46:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[10-Aug-2022 15:17:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[10-Aug-2022 23:41:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[11-Aug-2022 17:15:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php on line 83
+[11-Aug-2022 23:19:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php on line 83
+[12-Aug-2022 05:35:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[12-Aug-2022 20:22:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 226
+[13-Aug-2022 12:17:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 176
+[14-Aug-2022 12:02:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 226
+[14-Aug-2022 14:02:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[14-Aug-2022 14:51:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 176
+[14-Aug-2022 17:23:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 226
+[17-Aug-2022 02:44:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[17-Aug-2022 03:19:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[18-Aug-2022 05:02:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[18-Aug-2022 19:30:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[19-Aug-2022 08:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[19-Aug-2022 22:40:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 226
+[20-Aug-2022 12:16:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[20-Aug-2022 20:38:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php on line 83
+[21-Aug-2022 00:19:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[22-Aug-2022 13:16:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[22-Aug-2022 15:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[22-Aug-2022 20:28:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[23-Aug-2022 01:38:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[23-Aug-2022 04:30:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[27-Aug-2022 08:59:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/typography.php on line 217
+[28-Aug-2022 03:24:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[28-Aug-2022 13:56:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[28-Aug-2022 20:00:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[29-Aug-2022 10:27:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 580
+[29-Aug-2022 10:58:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[29-Aug-2022 14:33:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[30-Aug-2022 07:45:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 176
+[30-Aug-2022 11:34:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 152
+[30-Aug-2022 12:57:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/align.php on line 59
+[30-Aug-2022 13:49:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 138
+[22-Dec-2022 08:16:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/border.php on line 168
+[22-Dec-2022 08:16:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/dimensions.php on line 67
+[22-Dec-2022 08:16:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php:591
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/duotone.php on line 591
+[22-Dec-2022 08:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php:126
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/elements.php on line 126
+[22-Dec-2022 08:17:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php:439
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/layout.php on line 439
+[22-Dec-2022 08:17:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php on line 76
+[22-Dec-2022 13:03:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/spacing.php on line 76
+[07-Feb-2023 11:21:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php:123
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-supports/colors.php on line 123

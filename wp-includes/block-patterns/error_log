@@ -1,0 +1,584 @@
+[09-May-2022 02:48:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[09-May-2022 07:18:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[09-May-2022 14:04:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[09-May-2022 19:35:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[09-May-2022 20:19:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[10-May-2022 00:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[10-May-2022 00:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[10-May-2022 00:16:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[10-May-2022 00:17:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[10-May-2022 00:18:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[10-May-2022 00:19:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[10-May-2022 00:20:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[10-May-2022 02:31:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[10-May-2022 02:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[10-May-2022 03:19:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[10-May-2022 09:22:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[10-May-2022 22:26:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[11-May-2022 06:02:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[11-May-2022 10:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[11-May-2022 13:10:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[11-May-2022 21:10:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[12-May-2022 21:48:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[13-May-2022 15:49:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[13-May-2022 23:31:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[14-May-2022 00:02:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[14-May-2022 17:22:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[16-May-2022 17:49:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[16-May-2022 18:25:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[18-May-2022 11:49:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[22-May-2022 01:10:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[22-May-2022 12:07:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[24-May-2022 01:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[24-May-2022 16:22:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[24-May-2022 20:39:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[26-May-2022 22:56:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[30-May-2022 22:21:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[31-May-2022 15:40:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[31-May-2022 18:12:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[31-May-2022 18:20:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[05-Jun-2022 11:29:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[05-Jun-2022 21:05:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[06-Jun-2022 01:47:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[06-Jun-2022 05:41:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[06-Jun-2022 06:02:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[06-Jun-2022 06:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[06-Jun-2022 06:44:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[06-Jun-2022 11:52:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[07-Jun-2022 00:09:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[17-Jun-2022 10:10:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[18-Jun-2022 16:41:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[19-Jun-2022 00:31:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[19-Jun-2022 18:05:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[19-Jun-2022 19:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[20-Jun-2022 05:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[23-Jun-2022 04:18:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[23-Jun-2022 07:49:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[23-Jun-2022 21:30:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[25-Jun-2022 04:20:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[25-Jun-2022 11:46:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[25-Jun-2022 20:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[27-Jun-2022 15:50:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[29-Jun-2022 23:18:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[01-Jul-2022 21:29:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[02-Jul-2022 12:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[02-Jul-2022 19:09:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[03-Jul-2022 14:39:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[04-Jul-2022 04:51:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[07-Jul-2022 17:09:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[08-Jul-2022 07:09:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[09-Jul-2022 12:14:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[09-Jul-2022 18:07:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[12-Jul-2022 22:24:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[12-Jul-2022 23:34:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[14-Jul-2022 11:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[14-Jul-2022 22:30:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[15-Jul-2022 03:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[15-Jul-2022 10:07:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[16-Jul-2022 06:06:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[18-Jul-2022 11:17:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[18-Jul-2022 14:48:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Jul-2022 19:47:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[21-Jul-2022 01:58:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[22-Jul-2022 12:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[25-Jul-2022 21:00:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[25-Jul-2022 21:12:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[26-Jul-2022 10:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[26-Jul-2022 18:39:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[27-Jul-2022 04:36:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[28-Jul-2022 16:17:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[29-Jul-2022 00:10:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[30-Jul-2022 12:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[31-Jul-2022 10:57:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[01-Aug-2022 03:53:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[02-Aug-2022 15:38:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[02-Aug-2022 20:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[03-Aug-2022 13:23:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[03-Aug-2022 15:38:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[05-Aug-2022 14:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[06-Aug-2022 00:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[06-Aug-2022 22:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[07-Aug-2022 12:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[08-Aug-2022 12:19:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[08-Aug-2022 17:10:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[09-Aug-2022 13:12:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[09-Aug-2022 21:06:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[09-Aug-2022 21:19:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[10-Aug-2022 00:11:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[10-Aug-2022 19:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[11-Aug-2022 05:06:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[11-Aug-2022 15:32:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[11-Aug-2022 21:03:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[12-Aug-2022 03:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[12-Aug-2022 03:43:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[12-Aug-2022 04:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[12-Aug-2022 10:32:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[12-Aug-2022 23:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[13-Aug-2022 04:19:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[13-Aug-2022 11:15:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[14-Aug-2022 18:54:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[16-Aug-2022 10:02:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[16-Aug-2022 17:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[17-Aug-2022 09:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Aug-2022 09:35:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Aug-2022 11:17:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Aug-2022 21:36:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[21-Aug-2022 08:27:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[21-Aug-2022 12:04:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[22-Aug-2022 19:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[23-Aug-2022 14:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[23-Aug-2022 15:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[26-Aug-2022 10:56:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[27-Aug-2022 03:28:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[28-Aug-2022 14:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[22-Dec-2022 08:15:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[22-Dec-2022 08:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[22-Dec-2022 08:16:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[22-Dec-2022 08:16:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[22-Dec-2022 08:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[22-Dec-2022 08:16:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[22-Dec-2022 08:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[22-Dec-2022 13:02:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[22-Dec-2022 13:03:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[22-Dec-2022 13:03:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[22-Dec-2022 13:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[22-Dec-2022 13:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[22-Dec-2022 13:03:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/aviationhubb/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
